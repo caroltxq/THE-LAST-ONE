@@ -25,10 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course:B.S., Pharmacy(Biochemistry and Pharmacology)
+  - course:B.S.Pharmacy(Biochemistry and Pharmacology)
     institution: China Pharmaceutical University (CPU), Nanjing,China
     year: 09/2018-06/2022
-  - course: BSc, Biochemistry and Pharmacology
+  - course: BSc Biochemistry and Pharmacology
     institution: University of Strathclyde, Glasgow, UK
     year: 09/2021-06/2022
   #- course: BSc in Artificial Intelligence
