@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course:B.S.Pharmacy(Biochemistry and Pharmacology)
+  - course:Bachelor of Science in Pharmacy(Biochemistry and Pharmacology)
     institution: China Pharmaceutical University (CPU), Nanjing,China
     year: 09/2018-06/2022
   - course: BSc Biochemistry and Pharmacology
