@@ -70,7 +70,7 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
+Hi! I'm Xiaoqun Tao.
+I am a 3+1 student of China Pharmaceutical University (CPU) and University of Strathclyde (UoS). My program in CPU is Bachelor of Science in Pharmacy and my major in UoS is Biochemistry and Pharmacology (Honours).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
