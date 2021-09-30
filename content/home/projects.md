@@ -27,11 +27,13 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
-
+  - name: pharmacokinetics
+    tag: pharmacokinetics
+  - name: 3D printing
+    tag: 3D printing
+  - name: Bioinformatics
+    tag: Bioinformatics
+  
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'

@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: BS in Pharmacy
+  - course: GPA-3.79/4.0 BS in Pharmacy
     institution: China Pharmaceutical University (CPU), Nanjing,China
     year: 09/2018-06/2022
   - course: BSc Biochemistry and Pharmacology
