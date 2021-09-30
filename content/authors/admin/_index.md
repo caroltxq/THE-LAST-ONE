@@ -28,6 +28,8 @@ education:
   - course: GPA-3.79/4.0 BS in Pharmacy
     institution: China Pharmaceutical University (CPU), Nanjing,China
     year: 09/2018-06/2022
+    GPA:3.79/4.0
+    Honors&Awards: Second-class Outstanding Student Scholarship (twice), CPU, 2020&2019; The Honorary Title of Triple-A student, CPU, 12/2020
   - course: BSc Biochemistry and Pharmacology
     institution: University of Strathclyde, Glasgow, UK
     year: 09/2021-06/2022

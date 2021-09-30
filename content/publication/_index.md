@@ -10,7 +10,7 @@ cms_exclude: true
 view: 4
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
+header:An article about the genomic and immune classification of cutaneous melanoma cells
+  caption: "Still in the process of submission"
   image: ""
 ---
