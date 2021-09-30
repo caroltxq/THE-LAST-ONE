@@ -32,7 +32,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Made illustrations for professors¡¯ papers, drew popular science and interesting pictures
+        * Made illustrations for professorsâ€™ papers, drew popular science and interesting pictures
         * 3d visualization model of mechanisms of diseases
         * designed the packages ofmedicine
   
