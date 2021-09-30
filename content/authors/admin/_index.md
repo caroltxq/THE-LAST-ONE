@@ -26,8 +26,7 @@ interests:
 education:
   courses:
   - course: GPA-3.79/4.0 BS in Pharmacy
-    institution: China Pharmaceutical University(CPU),Nanjing,China, GPA-3.79/4.0
-    Honors&Awards- Second-class Outstanding Student Scholarship (twice), CPU, 2020&2019,The Honorary Title of Triple-A student, CPU, 12/2020
+    institution: China Pharmaceutical University(CPU),Nanjing,China
     year: 09/2018-06/2022
     
   - course: BSc Biochemistry and Pharmacology
@@ -74,5 +73,9 @@ highlight_name: true
 
 Hi! I'm Xiaoqun Tao.
 I am a 3+1 student of China Pharmaceutical University (CPU) and University of Strathclyde (UoS). My program in CPU is Bachelor of Science in Pharmacy and my major in UoS is Biochemistry and Pharmacology (Honours).
+GPA:3.79/4.0
+Honors&Awards:
+Second-class Outstanding Student Scholarship(twice),CPU,2020&2019,
+The Honorary Title of Triple-A student, CPU, 12/2020
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
