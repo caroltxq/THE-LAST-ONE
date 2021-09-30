@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: 
-    date_start: '09/2019'
-    date_end: '09/2021'
+    date_start: 'Sep 2019'
+    date_end: 'Sep 2021'
     description: |2-
         Responsibilities include:
         
