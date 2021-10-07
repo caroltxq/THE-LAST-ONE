@@ -1,5 +1,5 @@
 ---
-title:Design and 3D Printing of Tumor Cell Models
+title: Design and 3D Printing of Tumor Cell Models
 summary: Utilize 3DMAX to illustrate the process of tumor metastasis.
 tags:
 - 3D printing
