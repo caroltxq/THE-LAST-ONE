@@ -1,9 +1,9 @@
 ---
-title: In-Vivo Metabolism Model Study on Species Differences in the Pharmacokinetics of Itraconazole
-summary: An example of using the in-built project page.
+title: Genomic and immune classification of cutaneous melanoma cells
+summary: Utilize R to find the connection of the classificatioon and the symptoms.
 tags:
-- pharmacokinetics
-date: "04/2020-12/2020"
+- Bioinformatics
+date: "7/2021-now"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
