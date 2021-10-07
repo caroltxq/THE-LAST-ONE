@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: China Pharmaceutical University
-    date_start: '2019-09'
-    date_end: '2021-06'
+    date_start: '2019-09-01'
+    date_end: '2021-06-30'
     description: |2-
         Responsibilities include:
         
