@@ -66,7 +66,7 @@ experience:
     location: China Pharmaceutical University
     date_start: '2021-05-01'
     date_end: '2021-12-30'
-    description:|2-
+    description: |2-
         Responsibilities include:
         * Designed the shape of the microneedle
         * Maked the visual model 
