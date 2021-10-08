@@ -29,7 +29,7 @@ experience:
     location: China Pharmaceutical University
     date_start: '2019-09-01'
     date_end: '2021-06-30'
-    description: |2-
+    description: >|
         Responsibilities include:
         * Made illustrations for professors’ papers
         * Modelling
@@ -42,7 +42,7 @@ experience:
     location: China Pharmaceutical University
     date_start: '2019-09-01'
     date_end: '2020-03-31'
-    description: |2-
+    description: >|
         Responsibilities include:
         *   Modelling.
        
@@ -53,7 +53,7 @@ experience:
     location: China Pharmaceutical University
     date_start: '2020-4-01'
     date_end: '2020-12-30'
-    description: |2-
+    description: >|
         Responsibilities include:
         *Measured the metabolites of itraconazole in rats and human liver microsomes
         * Analyzed data and studied the different inhibitory effects
@@ -66,7 +66,7 @@ experience:
     location: China Pharmaceutical University
     date_start: '2021-05-01'
     date_end: '2021-12-30'
-    description: |2-
+    description: >|
         Responsibilities include:
         * Designed the shape of the microneedle
         * Maked the visual model 
@@ -79,7 +79,7 @@ experience:
     location: China Pharmaceutical University
     date_start: '2021-05-01'
     date_end: '2021-12-30'
-    description: |2-
+    description: >|
         Responsibilities include:
         * Design the website
         * Make materials for the illustrations
@@ -92,7 +92,7 @@ experience:
     location: China academy of medical sciences and Peking union medical college Suzhou institute of systems medicine
     date_start: '2021-07-01'
     date_end: '2021-10-20'
-    description: |2-
+    description: >|
         Responsibilities include:
         * Collect data from databases and wash then.
         * Analyse the genomic data
@@ -105,7 +105,7 @@ experience:
     location: University of Strathclyde
     date_start: '2021-09-01'
     date_end: '2022-5-1'
-    description: |2-
+    description: >|
         Responsibilities include:
         * This is my gratuation project.
         
