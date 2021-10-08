@@ -59,9 +59,7 @@ experience:
         * Measured the metabolites of itraconazole in rats and human liver microsomes
         * Analyzed data and studied the different inhibitory effects
         * Designed the experiment。
-     
-    
-   - title: Project leader 
+  - title: Project leader 
     company: The design of novel bionic microneedles
     company_url: ''
     company_logo: org-gc
