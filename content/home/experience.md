@@ -35,6 +35,7 @@ experience:
         * Made illustrations for professors’ papers
         * Modelling
         * Designed medicine packaging
+        >-
         
   - title: Core member
     company: Design and 3D Printing of Tumor Cell Models
@@ -46,6 +47,7 @@ experience:
     description:  >-
         Responsibilities include:
         *   Modelling.
+       >-
        
  - title: Core member
     company: In-Vivo Metabolism Model Study on Species Differences in the Pharmacokinetics of Itraconazole
@@ -60,6 +62,7 @@ experience:
         * Measured the metabolites of itraconazole in rats and human liver microsomes
         * Analyzed data and studied the different inhibitory effects
         * Designed the experiment。
+    >-
     
    - title: Project leader 
     company: The design of novel bionic microneedles
@@ -74,7 +77,9 @@ experience:
         * Designed the shape of the microneedle
         * Maked the visual model 
         * Communicated with related commpanies and made it real
-        * Designed the experiments for testing the features of model 
+        * Designed the experiments for testing the features of model
+        >-
+        
   - title: Project leader
     company: Scientific research illustrations website based on block chain technology
     company_url: ''
@@ -87,6 +92,7 @@ experience:
         * Design the website
         * Make materials for the illustrations
         * Find fund.
+        >-
         
     - title: Core member
     company: Genomic and immune classification of cutaneous melanoma cells
@@ -100,6 +106,7 @@ experience:
         * Collect data from databases and wash then.
         * Analyse the genomic data
         * In charge of the genomic classification of the disease and link it with the clinial syptoms.
+        >-
         
   - title: Core member
     company: Polar antibiotic discovery,uncovering the biomedical potential of rare actinomycetes isolated from the Arctic and Antarctic.
@@ -112,10 +119,11 @@ experience:
         Responsibilities include:
         
         * This is my gratuation project.
+        >-
         
     
   
 
 design:
-  columns: '7'
+  columns: '2'
 ---
