@@ -29,7 +29,7 @@ experience:
     location: China Pharmaceutical University
     date_start: '2019-09-01'
     date_end: '2021-06-30'
-    description: >|
+    description:  >-
         Responsibilities include:
         
         * Made illustrations for professors’ papers
@@ -43,7 +43,7 @@ experience:
     location: China Pharmaceutical University
     date_start: '2019-09-01'
     date_end: '2020-03-31'
-    description: >|
+    description:  >-
     
         Responsibilities include:
         *   Modelling.
@@ -55,7 +55,7 @@ experience:
     location: China Pharmaceutical University
     date_start: '2020-4-01'
     date_end: '2020-12-30'
-    description: >|
+    description:  >-
     
         Responsibilities include:
         * Measured the metabolites of itraconazole in rats and human liver microsomes
@@ -69,7 +69,7 @@ experience:
     location: China Pharmaceutical University
     date_start: '2021-05-01'
     date_end: '2021-12-30'
-    description: >|
+    description:  >-
     
         Responsibilities include:
         * Designed the shape of the microneedle
@@ -83,7 +83,7 @@ experience:
     location: China Pharmaceutical University
     date_start: '2021-05-01'
     date_end: '2021-12-30'
-    description: >|
+    description:  >-
         Responsibilities include:
         * Design the website
         * Make materials for the illustrations
@@ -96,7 +96,7 @@ experience:
     location: China academy of medical sciences and Peking union medical college Suzhou institute of systems medicine
     date_start: '2021-07-01'
     date_end: '2021-10-20'
-    description: >|
+    description:  >-
         Responsibilities include:
         * Collect data from databases and wash then.
         * Analyse the genomic data
@@ -109,7 +109,7 @@ experience:
     location: University of Strathclyde
     date_start: '2021-09-01'
     date_end: '2022-5-1'
-    description: >|
+    description:  >-
         Responsibilities include:
         
         * This is my gratuation project.
