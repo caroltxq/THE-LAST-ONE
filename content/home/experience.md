@@ -46,7 +46,7 @@ experience:
         Responsibilities include:
         * Modelling
        
-  - title: Core member
+- title: Core member
     company: In-Vivo Metabolism Model Study on Species Differences in the Pharmacokinetics of Itraconazole
     company_url: ''
     company_logo: org-gc
@@ -57,7 +57,7 @@ experience:
         Responsibilities include:
         *Measured the metabolites of itraconazole in rats and human liver microsomes
         * Analyzed data and studied the different inhibitory effects
-        * Designed the experiment
+        * Designed the experiment。
     
    - title: Project leader 
     company: The design of novel bionic microneedles
