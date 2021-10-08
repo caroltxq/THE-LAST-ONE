@@ -44,7 +44,7 @@ experience:
     date_end: '2020-03-31'
     description: |2-
         Responsibilities include:
-        *Modelling
+        *   Modelling.
        
  - title: Core member
     company: In-Vivo Metabolism Model Study on Species Differences in the Pharmacokinetics of Itraconazole
