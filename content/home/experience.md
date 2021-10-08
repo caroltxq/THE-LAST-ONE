@@ -96,7 +96,18 @@ experience:
     description:  |2-
             Responsibilities include:
                            * This is my graduation project.
-     
+                           
+    - title: Project leader
+    company: Scientific research illustrations website based on block chain technology
+    company_url: ''
+    company_logo: org-gc
+    location: China Pharmaceutical University
+    date_start: '2021-05-01'
+    date_end: '2021-12-01'
+    description:  |2-
+            Responsibilities include:
+                           * Designing the website,making materials for the illustrations and finding fund.
+                           
 design:
   columns: '7'
 ---
