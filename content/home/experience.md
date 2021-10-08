@@ -31,6 +31,7 @@ experience:
     date_end: '2021-06-30'
     description: >|
         Responsibilities include:
+        
         * Made illustrations for professors’ papers
         * Modelling
         * Designed medicine packaging
@@ -43,6 +44,7 @@ experience:
     date_start: '2019-09-01'
     date_end: '2020-03-31'
     description: >|
+    
         Responsibilities include:
         *   Modelling.
        
@@ -54,8 +56,9 @@ experience:
     date_start: '2020-4-01'
     date_end: '2020-12-30'
     description: >|
+    
         Responsibilities include:
-        *Measured the metabolites of itraconazole in rats and human liver microsomes
+        * Measured the metabolites of itraconazole in rats and human liver microsomes
         * Analyzed data and studied the different inhibitory effects
         * Designed the experiment。
     
@@ -67,6 +70,7 @@ experience:
     date_start: '2021-05-01'
     date_end: '2021-12-30'
     description: >|
+    
         Responsibilities include:
         * Designed the shape of the microneedle
         * Maked the visual model 
@@ -107,6 +111,7 @@ experience:
     date_end: '2022-5-1'
     description: >|
         Responsibilities include:
+        
         * This is my gratuation project.
         
     
