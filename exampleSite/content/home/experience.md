@@ -70,21 +70,21 @@ design:
     location: China Pharmaceutical University
     date_start: '2021-05-01'
     date_end: '2021-12-30'
-    description:|2-
+    description: |2-
     
         Responsibilities include:
         * Designed the shape of the microneedle
         * Maked the visual model 
         * Communicated with related commpanies and made it real
         * Designed the experiments for testing the features of model
-        >-
+        
         
   - title: Project leader
     company: Scientific research illustrations website based on block chain technology
     company_url: ''
     company_logo: org-gc
     location: China Pharmaceutical University
-    date_start: '2021-05-01'
+    date_start:'2021-05-01'
     date_end: '2021-12-30'
     description:  |2-
         Responsibilities include:

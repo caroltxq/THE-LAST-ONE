@@ -84,8 +84,6 @@ experience:
         * Design the website
         * Make materials for the illustrations
         * Find fund.
-        
-        
     - title: Core member
     company: Genomic and immune classification of cutaneous melanoma cells
     company_url: ''
@@ -98,9 +96,7 @@ experience:
         * Collect data from databases and wash then.
         * Analyse the genomic data
         * In charge of the genomic classification of the disease and link it with the clinial syptoms.
-        
-        
-  - title: Core member
+ - title: Core member
     company: Polar antibiotic discovery,uncovering the biomedical potential of rare actinomycetes isolated from the Arctic and Antarctic.
     company_url: ''
     company_logo: org-gc
