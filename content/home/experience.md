@@ -31,11 +31,11 @@ experience:
     date_end: '2021-06-30'
     description: |2-
         Responsibilities include:
-        
         * Made illustrations for professors’ papers
         * Modelling
         * Designed medicine packaging
-   - title: Core member
+        
+  - title: Core member
     company: Design and 3D Printing of Tumor Cell Models
     company_url: ''
     company_logo: org-gc
@@ -46,7 +46,7 @@ experience:
         Responsibilities include:
         * Modelling
        
-    - title: Core member
+  - title: Core member
     company: In-Vivo Metabolism Model Study on Species Differences in the Pharmacokinetics of Itraconazole
     company_url: ''
     company_logo: org-gc
@@ -55,11 +55,12 @@ experience:
     date_end: '2020-12-30'
     description: |2-
         Responsibilities include:
-        
         *Measured the metabolites of itraconazole in rats and human liver microsomes
         * Analyzed data and studied the different inhibitory effects
         * Designed the experiment
-    - title: Project leader 
+    
+    
+   - title: Project leader 
     company: The design of novel bionic microneedles
     company_url: ''
     company_logo: org-gc
@@ -68,12 +69,11 @@ experience:
     date_end: '2021-12-30'
     description: |2-
         Responsibilities include:
-        
         * Designed the shape of the microneedle
         * Maked the visual model 
         * Communicated with related commpanies and made it real
         * Designed the experiments for testing the features of model 
-   - title: Project leader
+  - title: Project leader
     company: Scientific research illustrations website based on block chain technology
     company_url: ''
     company_logo: org-gc
@@ -82,10 +82,10 @@ experience:
     date_end: '2021-12-30'
     description: |2-
         Responsibilities include:
-        
         * Design the website
         * Make materials for the illustrations
         * Find fund.
+        
     - title: Core member
     company: Genomic and immune classification of cutaneous melanoma cells
     company_url: ''
@@ -108,7 +108,6 @@ experience:
     date_end: '2022-5-1'
     description: |2-
         Responsibilities include:
-        
         * This is my gratuation project.
         
     
