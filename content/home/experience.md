@@ -82,8 +82,7 @@ experience:
     description:  |2-
         Responsibilities include:
         * Design the website
-        * Make materials for the illustrations
-        * Find fund.
+        * Make materials for the illustrations and find fund.
     - title: Core member
     company: Genomic and immune classification of cutaneous melanoma cells
     company_url: ''
