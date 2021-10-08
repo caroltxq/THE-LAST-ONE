@@ -86,14 +86,7 @@ experience:
                            * Analyse the genomic data
                            * In charge of the genomic classification of the disease and link it with the clinial syptoms.
    
-  - title: Core member
-      company: Polar antibiotic discovery,uncovering the biomedical potential of rare     actinomycetes isolated from the Arctic and Antarctic.
-      company_url: ''
-      company_logo: org-gc
-      location: University of Strathclyde
-      date_start: '2021-09-01'
-      date_end: '2022-05-01'
-      description:  This is my gratuation project.
+
 design:
   columns: '7'
 ---
