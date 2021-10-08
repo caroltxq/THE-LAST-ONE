@@ -44,7 +44,7 @@ experience:
     location: China Pharmaceutical University
     date_start: '2019-09-01'
     date_end: '2020-03-31'
-    description:'Responsibilities include:Modelling.'
+    description:'Responsibilities include Modelling.'
        
  - title: Core member
     company: In-Vivo Metabolism Model Study on Species Differences in the Pharmacokinetics of Itraconazole
