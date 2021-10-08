@@ -44,7 +44,6 @@ experience:
     date_start: '2019-09-01'
     date_end: '2020-03-31'
     description:  >-
-    
         Responsibilities include:
         *   Modelling.
        
@@ -118,5 +117,5 @@ experience:
   
 
 design:
-  columns: '2'
+  columns: '7'
 ---
