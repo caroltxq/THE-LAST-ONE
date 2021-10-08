@@ -59,7 +59,6 @@ experience:
         * Analyzed data and studied the different inhibitory effects
         * Designed the experiment
     
-    
    - title: Project leader 
     company: The design of novel bionic microneedles
     company_url: ''
@@ -95,11 +94,11 @@ experience:
     date_end: '2021-10-20'
     description: |2-
         Responsibilities include:
-        
         * Collect data from databases and wash then.
         * Analyse the genomic data
         * In charge of the genomic classification of the disease and link it with the clinial syptoms.
-      - title: Core member
+        
+  - title: Core member
     company: Polar antibiotic discovery,uncovering the biomedical potential of rare actinomycetes isolated from the Arctic and Antarctic.
     company_url: ''
     company_logo: org-gc
