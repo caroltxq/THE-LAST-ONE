@@ -79,7 +79,7 @@ experience:
     location: China Pharmaceutical University
     date_start: '2021-05-01'
     date_end: '2021-12-30'
-    description:Responsibilities include designing the website,making materials for the illustrations and finding fund.
+    description: Responsibilities include designing the website,making materials for the illustrations and finding fund.
     - title: Core member
     company: Genomic and immune classification of cutaneous melanoma cells
     company_url: ''
