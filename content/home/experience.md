@@ -51,7 +51,7 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: China Pharmaceutical University
-    date_start: '2020-4-01'
+    date_start: '2020-04-01'
     date_end: '2020-12-30'
     description: |2-
     
