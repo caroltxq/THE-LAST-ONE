@@ -44,7 +44,8 @@ experience:
     location: China Pharmaceutical University
     date_start: '2019-09-01'
     date_end: '2020-03-31'
-    description:  >-
+    description:  
+    >-
         Responsibilities include:
         *   Modelling.
        >-
