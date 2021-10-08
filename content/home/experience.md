@@ -81,6 +81,7 @@ experience:
     date_end: '2021-12-30'
     description:  |2-
         Responsibilities include:
+        
         * Design the website
         * Make materials for the illustrations and find fund.
     - title: Core member
