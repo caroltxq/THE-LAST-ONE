@@ -87,17 +87,15 @@ experience:
                            * In charge of the genomic classification of the disease and link it with the clinial syptoms.
    
   - title: Core member
-    company: Genomic and immune classification of cutaneous melanoma cells
+    company: Polar antibiotic discovery uncovering the biomedical potential of rare actinomycetes isolated from the Arctic and Antarctic
     company_url: ''
     company_logo: org-gc
-    location: China academy of medical sciences and Peking union medical college Suzhou institute of systems medicine
-    date_start: '2021-07-01'
-    date_end: '2021-10-20'
+    location: University of Strathclyde
+    date_start: '2021-09-01'
+    date_end: '2022-05-01'
     description:  |2-
             Responsibilities include:
-                           * Collect data from databases and wash then.
-                           * Analyse the genomic data
-                           * In charge of the genomic classification of the disease and link it with the clinial syptoms.
+                           * This is my graduation project.
      
 design:
   columns: '7'
