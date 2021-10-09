@@ -26,7 +26,7 @@ external_link: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
   Diagnosis and surgical resection of early-stage primary cutaneous melanoma is often curative for patients with localized disease, but the prognosis is less favorable for patients with regional metastases. Using the technique of lymphatic mapping and sentinel lymph node (SLN) biopsy, early surgical intervention for patients with microscopicnregional lymph node metastases (i.e., positive SLNs) hasnrecently been found useful for prognosis, may improve survival in a subgroup of such patients, and serves to guide the use of adjuvant therapy . Overall, survival has historically been poor for patients with distant metastatic disease,and response to conventional chemotherapy has been infrequent.
