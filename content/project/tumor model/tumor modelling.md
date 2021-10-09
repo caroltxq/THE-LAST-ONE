@@ -8,10 +8,6 @@ date: "09/2019-03/2020"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-gallery_item:
-- album: albums
-  image:tumor.jpg
-  caption: A caption
 
 #links:
 #- icon: twitter
