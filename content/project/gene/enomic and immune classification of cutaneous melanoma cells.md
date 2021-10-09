@@ -8,7 +8,7 @@ date: "7/2021-now"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-![screen reader text](image.jpg "gene")
+![screen reader text](gene.jpg "gene")
 
 
 #links:
