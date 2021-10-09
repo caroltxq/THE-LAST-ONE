@@ -8,9 +8,7 @@ date: "7/2021-now"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+![screen reader text](fearured.jpg "featured")
 
 links:
 - icon: twitter
