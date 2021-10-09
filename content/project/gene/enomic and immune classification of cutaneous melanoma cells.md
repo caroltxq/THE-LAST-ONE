@@ -11,7 +11,7 @@ external_link: ""
 gallery_item:
 - album: albums
   image: gene.jpg
-  caption: A
+  caption: A caption
 
 
 
