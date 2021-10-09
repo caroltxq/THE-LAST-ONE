@@ -8,12 +8,7 @@ date: "04/2020-12/2020"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-gallery_item:
-- album: albums
-  image: invivo.jpg
-  caption: A caption
 
-  
 #links:
 #- icon: twitter
 #  icon_pack: fab
