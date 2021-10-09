@@ -8,10 +8,7 @@ date: "04/2021-now"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-gallery_item:
-- album: albums
-  image:micro.jpg
-  caption: A caption
+
 #links:
 #- icon: twitter
 #  icon_pack: fab
