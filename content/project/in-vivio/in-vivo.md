@@ -10,7 +10,7 @@ external_link: ""
 
 gallery_item:
 - album: albums
-  image:in-vivo.jpg
+  image: in-vivo.jpg
   caption: A caption
 
   
