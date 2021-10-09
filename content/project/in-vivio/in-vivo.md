@@ -11,7 +11,7 @@ external_link: ""
 gallery_item:
 - album: albums
   image:in-vivo.jpg
-  caption: WA caption
+  caption: A caption
 
   
 #links:
