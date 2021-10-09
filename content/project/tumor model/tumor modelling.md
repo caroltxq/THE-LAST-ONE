@@ -8,7 +8,6 @@ date: "09/2019-03/2020"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image = "headers/tumor.png" caption = "PhenoGO rule patterns" +++
 
 #links:
 #- icon: twitter
