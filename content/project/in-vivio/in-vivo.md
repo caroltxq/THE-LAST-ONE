@@ -27,7 +27,6 @@ url_video: ""
 #slides: example
 
 ---
-
 Overview of the project
 
     Itraeonazole, also known as spirenol, is a third-generation triazole antifungal agent with strong antibacterial activity, a broad antibacterial spectrum, and few adverse reactions, especially for deep fungal infections.Itraconazole has recently been found to have antitumor activity to medulloblastoma, basal cell carcinoma, and prostate cancer.  But its exact mechanism remains elusive. To date, two anticancer mechanisms of itraconazole have been proposed, namely, inhibition of angiogenesis in some cancer cells and inhibition of Hedgehog signaling pathway.  Therefore itraconazole has great value for further development.  
@@ -41,7 +40,6 @@ Overview of the project
     In addition, the amount of hydroxyl metabolites produced by the four isomers was different from the amount of degradation of the original drug, suggesting that other metabolites might be formed.  
    
    Based on the finding, we suggested that it may related to its binding to CYP3A4. So we used Discovery Studio to study the binding of CYP3A4 of itraconazole in liver microsomes of rats and humans respectively.  On the basis of theoretical analysis, the possible binding sites on itraconazole were screened by organic synthesis.  The binding site was labeled 1,2,3,4......  By reserving only 1 or 2 or 3 or......  Synthesis of several different itraconazole derivatives.  The binding sites of CYP3A4 and itraconazole in rats can be obtained by processing the experimental data. The same method was used to treat human liver microsomes.  
-    
     
     My work in this project
     
